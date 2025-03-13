@@ -2,7 +2,7 @@
 
 # Hey! I'm Krish Urkude
 
-## A passionate GAmeDev and Tech Enthuisiasts 
+## A passionate GameDev and Tech Enthuisiasts 
 
 • 🎮 I'm currently working on my **GameDev Startup**
 
